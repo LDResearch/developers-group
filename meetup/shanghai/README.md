@@ -1,16 +1,31 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [天机阁全国巡回 Meetup 上海站](#%E5%A4%A9%E6%9C%BA%E9%98%81%E5%85%A8%E5%9B%BD%E5%B7%A1%E5%9B%9E-meetup-%E4%B8%8A%E6%B5%B7%E7%AB%99)
+  - [活动介绍](#%E6%B4%BB%E5%8A%A8%E4%BB%8B%E7%BB%8D)
+  - [讲师介绍](#%E8%AE%B2%E5%B8%88%E4%BB%8B%E7%BB%8D)
+  - [活动社群](#%E6%B4%BB%E5%8A%A8%E7%A4%BE%E7%BE%A4)
+  - [活动现场](#%E6%B4%BB%E5%8A%A8%E7%8E%B0%E5%9C%BA)
+  - [精美茶歇](#%E7%B2%BE%E7%BE%8E%E8%8C%B6%E6%AD%87)
+- [开发者福利](#%E5%BC%80%E5%8F%91%E8%80%85%E7%A6%8F%E5%88%A9)
+  - [演讲嘉宾 PPT](#%E6%BC%94%E8%AE%B2%E5%98%89%E5%AE%BE-ppt)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 天机阁全国巡回 Meetup 上海站
 
 ![kv](images/kv.jpeg)
 
 **天机阁全国巡回Meetup** 是由天机阁主办的面向开源社区贡献者和区块链技术开发者的线下技术沙龙活动，将在全国10个城市巡回展开。天机阁邀请到了来自5miles+Cybermiles 集团，Ruff Chain，PCHAIN，点融网，EOS生态区的技术专家同台，深度分享在区块链落地过程中踩过的坑、修过的bug、熬过的夜、获得的成长。
 
-**【活动介绍】**
+## 活动介绍
 
 **天机阁全国巡回 Meetup** 是由天机阁主办的面向开源社区贡献者和区块链技术开发者的线下技术沙龙活动，将在上海、北京、深圳、杭州、广州、成都等全国10个城市巡回展开。每一场 Meetup 都将邀请技术专家与行业大咖围绕**区块链、人工智能、物联网**等前沿技术进行深入分析解读，并与社区爱好者们分享**区块链落地场景与应用实践**。
 
 2018年7月28日，天机阁迎来了第一站 **「T.J.G Meetup Shanghai」**。忠诚希望区块链相关从业者能够回归技术，不忘初心，聚焦区块链落地与应用服务，使人们能够真正感受到区块链技术的迷人魅力与独特优势。同时，我们也欢迎优秀的初创团队和个人在这个平台上展示最前沿的区块链技术应用。
 
-**【讲师介绍】**
+## 讲师介绍
 
 ![robert](images/robert.png)
 
@@ -47,26 +62,37 @@ EOS生态区 技术负责人丨邱绍锡
 
  
 
-**【活动社群】**
+## 活动社群
 
 ![group_qrcode](images/group_qrcode.png)
 
 长按加客服 进入讨论群
 
-
-**【活动现场】**
+## 活动现场
 
 ![live](images/live.jpg)
 
 
 
-**【精美茶歇】**
+## 精美茶歇
 
 ![tea_break](images/tea_break.jpg)
 
-## 开发者福利
+# 开发者福利
 
-[演讲嘉宾 PPT](slides/)
+## 演讲嘉宾 PPT
+
+[天机阁-CyberMiles-区块链开启新电商生态](slides/天机阁-CyberMiles-区块链开启新电商生态.pdf)
+
+[天机阁-PCHAIN-区块链3.0的核心技术](天机阁-PCHAIN-区块链3.0的核心技术.pdf)
+
+[天机阁-点融网-深度解析点融区块链云服务](天机阁-点融网-深度解析点融区块链云服务.pdf)
+
+[天机阁-EOSeco-从浏览器看到EOS](slides/天机阁-EOSeco-从浏览器看到EOS.pdf)
+
+
+
+
 
 
 
