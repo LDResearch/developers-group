@@ -8,9 +8,9 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-![TJG_LOGO](images/TJG_logo.png)
-
 # 天机阁开发者社区
+
+![TJG_LOGO](images/TJG_logo.png)
 
 ## 全国巡回 Meetup
 
