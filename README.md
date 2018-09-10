@@ -18,6 +18,8 @@
 
 [7.28 上海站｜拥抱未来－Bring Blockchain To Everyone](meetup/shanghai)
 
+[9.08 北京站｜区块链安全技术沙龙](meetup/beijing)
+
 ## 开发指南
 
 ### 以太坊
