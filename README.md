@@ -1,33 +1,25 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+# LDResearch Developers Group
 
-- [天机阁开发者社区](#%E5%A4%A9%E6%9C%BA%E9%98%81%E5%BC%80%E5%8F%91%E8%80%85%E7%A4%BE%E5%8C%BA)
-  - [全国巡回 Meetup](#%E5%85%A8%E5%9B%BD%E5%B7%A1%E5%9B%9E-meetup)
-  - [开发指南](#%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97)
-    - [以太坊](#%E4%BB%A5%E5%A4%AA%E5%9D%8A)
-  - [天机阁公众号](#%E5%A4%A9%E6%9C%BA%E9%98%81%E5%85%AC%E4%BC%97%E5%8F%B7)
+**LDResearch Developers Group** is a bridge connecting LDResearch with the vast number of open source enthusiasts and blockchain developers. It is an active technology exchange platform organized and built by LDResearch and the community. Through the offline national tour Meetup, hackathon, blockchain summit and online technical forums, live broadcasts, analysis columns and other activities, we create a developer community ecosystem on a global scale. At the same time, we sincerely invite excellent open source communities and projects such as blockchain, AI(Artificial Intelligence), and IoT (Internet of Things) to work with us to build a pragmatic, efficient, high-quality, spontaneous developer community alliance.
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+## Multi-Language
 
-![TJG_LOGO](images/TJG_logo.png)
+[![](https://img.shields.io/badge/Lang-English-blue.svg)](README.md)  [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md)
 
-# 天机阁开发者社区
 
-## 全国巡回 Meetup
+## LDResearch Wechat Official Account
 
-[7.28 上海站｜拥抱未来－Bring Blockchain To Everyone](meetup/shanghai)
+![LDResearch_QRCode](images/ldresearch_qrcode.jpeg)
 
-[9.08 北京站｜区块链安全技术沙龙](meetup/beijing)
+## Blockchain National Tour Meetup
 
-## 开发指南
+[7.28 Shanghai｜Embrace the future－Bring Blockchain To Everyone](meetup/shanghai)
 
-### 以太坊
+[9.08 Beijing｜Blockchain Security technology salon](meetup/beijing)
 
-[以太坊私有链搭建手册](guide/eth/manual.md)
+## Development Guide
 
-## 天机阁公众号
+### Ethereum
 
-**天机阁TJG**
+[A guide to build up private ethereum blochain](guide/eth/manual.md)
 
-![TJG_QRCode](images/TJG_QRCode.jpg)
